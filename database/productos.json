@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Escuadra",
+        "descripcion": "Descripcion de producto",
+        "foto": "Foto.jpg",
+        "precio": 123.45,
+        "stock": 100,
+        "timestamp": 1653972112465,
+        "codigo": "4qhh7xco",
+        "id": 1
+    },
+    {
+        "nombre": "Calculadora",
+        "descripcion": "Descripcion de producto",
+        "foto": "Foto.jpg",
+        "precio": 234.56,
+        "stock": 50,
+        "timestamp": 1653975201416,
+        "codigo": "8zs8mqht",
+        "id": 2
+    },
+    {
+        "nombre": "Globo Terráqueo",
+        "descripcion": "Descripcion de producto",
+        "foto": "Foto.jpg",
+        "precio": 345.67,
+        "stock": 25,
+        "timestamp": 1653975222523,
+        "codigo": "d94udqeo",
+        "id": 3
+    },
+    {
+        "nombre": "Agenda",
+        "descripcion": "Descripcion de producto",
+        "foto": "Foto.jpg",
+        "precio": 30.67,
+        "stock": 10,
+        "timestamp": 1653975244554,
+        "codigo": "oe5h6v58",
+        "id": 4
+    },
+    {
+        "nombre": "Lapíz",
+        "descripcion": "Descripcion de producto",
+        "foto": "Foto.jpg",
+        "precio": 5.67,
+        "stock": 44,
+        "timestamp": 1653975262168,
+        "codigo": "sv0spxih",
+        "id": 5
+    }
+]
